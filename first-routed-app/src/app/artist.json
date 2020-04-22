@@ -1,1 +1,36 @@
-{ "external_urls": { "spotify": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4" }, "followers": { "href": null, "total": 377876 }, "genres": [ "italian hip hop", "rap napoletano" ], "href": "https://api.spotify.com/v1/artists/3yiEJ9SByXZMXTwaKdVFN4", "id": "3yiEJ9SByXZMXTwaKdVFN4", "images": [ { "height": 640, "url": "https://i.scdn.co/image/c345fb0522c4e56fa73f6a82558393ec9855e765", "width": 640 }, { "height": 320, "url": "https://i.scdn.co/image/a78f10549de31577c3d55f8b9276278029596184", "width": 320 }, { "height": 160, "url": "https://i.scdn.co/image/c5ccd87adf0d17d3f5473d8d4a6e6cb6f7090653", "width": 160 } ], "name": "Luche", "popularity": 70, "type": "artist", "uri": "spotify:artist:3yiEJ9SByXZMXTwaKdVFN4" }
+{
+    "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+    },
+    "followers": {
+        "href": null,
+        "total": 377876
+    },
+    "genres": [
+        "italian hip hop",
+        "rap napoletano"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3yiEJ9SByXZMXTwaKdVFN4",
+    "id": "3yiEJ9SByXZMXTwaKdVFN4",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/c345fb0522c4e56fa73f6a82558393ec9855e765",
+            "width": 640
+        },
+        {
+            "height": 320,
+            "url": "https://i.scdn.co/image/a78f10549de31577c3d55f8b9276278029596184",
+            "width": 320
+        },
+        {
+            "height": 160,
+            "url": "https://i.scdn.co/image/c5ccd87adf0d17d3f5473d8d4a6e6cb6f7090653",
+            "width": 160
+        }
+    ],
+    "name": "Luche",
+    "popularity": 70,
+    "type": "artist",
+    "uri": "spotify:artist:3yiEJ9SByXZMXTwaKdVFN4"
+}
